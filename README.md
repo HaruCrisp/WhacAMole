@@ -1,3 +1,5 @@
+Inspired by Whac a Mole
+
 Ran in Java
 Run through App.java
 
